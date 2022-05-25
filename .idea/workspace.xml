@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Multithreading">
-      <change afterPath="$PROJECT_DIR$/src/linkedlistvsarraylist/LinkedListExample.java" afterDir="false" />
+    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on LinkedLIst vs ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/generics/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/AnimalPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/GenericsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +46,28 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="generics" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GenericsExample">
+    <configuration name="GenericsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.GenericsExample" />
+      <module name="Java-Tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Multithreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multithreading.Multithreading" />
       <module name="Java-Tuts" />
@@ -57,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsExample" />
         <item itemvalue="Application.Multithreading" />
       </list>
     </recent_temporary>
@@ -77,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653440359543</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add tutorial on LinkedLIst vs ArrayList">
+      <created>1653442737285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653442737285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add tutorial on Multithreading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Multithreading" />
+    <MESSAGE value="Add tutorial on LinkedLIst vs ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on LinkedLIst vs ArrayList" />
   </component>
 </project>
