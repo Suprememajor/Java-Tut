@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on LinkedLIst vs ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/generics/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/AnimalPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/GenericsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Printer.java" afterDir="false" />
+    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Generics">
+      <change afterPath="$PROJECT_DIR$/src/records/EmployeeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/records/EmployeeRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/records/RecordsTutorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -39,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="generics" />
@@ -54,7 +52,7 @@
       <recent name="generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericsExample">
+  <component name="RunManager" selected="Application.RecordsTutorial">
     <configuration name="GenericsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.GenericsExample" />
       <module name="Java-Tuts" />
@@ -81,8 +79,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecordsTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="records.RecordsTutorial" />
+      <module name="Java-Tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="records.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.RegexExample" />
+      <module name="Java-Tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecordsTutorial" />
+        <item itemvalue="Application.RegexExample" />
         <item itemvalue="Application.GenericsExample" />
         <item itemvalue="Application.Multithreading" />
       </list>
@@ -111,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653442737285</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add tutorial on Generics">
+      <created>1653444826449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653444826449</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add tutorial on Multithreading" />
     <MESSAGE value="Add tutorial on LinkedLIst vs ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on LinkedLIst vs ArrayList" />
+    <MESSAGE value="Add tutorial on Generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Generics" />
   </component>
 </project>
