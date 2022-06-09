@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Generics">
-      <change afterPath="$PROJECT_DIR$/src/advance/stringhandling/StringHandlingDemo.java" afterDir="false" />
+    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on String Handling">
+      <change afterPath="$PROJECT_DIR$/src/advance/networking/NetworkingDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654796548838</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add tutorial on String Handling">
+      <created>1654798773857</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654798773857</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +261,8 @@
     <MESSAGE value="Add tutorial on IO" />
     <MESSAGE value="Add tutorial on Jdbc" />
     <MESSAGE value="Add tutorial on Generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Generics" />
+    <MESSAGE value="Add tutorial on String Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on String Handling" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
