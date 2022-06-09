@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Multithreading and Synchronization">
-      <change afterPath="$PROJECT_DIR$/src/advance/autoboxing/AutoBoxingDemo.java" afterDir="false" />
+    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Autoboxing">
+      <change afterPath="$PROJECT_DIR$/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance/io/ByteStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance/io/CharacterStreamDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,7 @@
       <recent name="generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AutoBoxingDemo">
+  <component name="RunManager" selected="Application.CharacterStreamDemo">
     <configuration name="AutoBoxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advance.autoboxing.AutoBoxingDemo" />
       <module name="Java-Tuts" />
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance.annotations.MyClass" />
+    <configuration name="ByteStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance.io.ByteStreamExample" />
       <module name="Java-Tuts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance.annotations.*" />
+          <option name="PATTERN" value="advance.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerDeserDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance.serializable.SerDeserDemo" />
+    <configuration name="CharacterStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance.io.CharacterStreamDemo" />
       <module name="Java-Tuts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance.serializable.*" />
+          <option name="PATTERN" value="advance.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharacterStreamDemo" />
+        <item itemvalue="Application.ByteStreamExample" />
         <item itemvalue="Application.AutoBoxingDemo" />
         <item itemvalue="Application.SynchronizationDemo" />
         <item itemvalue="Application.ThreadingDemo" />
-        <item itemvalue="Application.SerDeserDemo" />
-        <item itemvalue="Application.MyClass" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654745095738</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add tutorial on Autoboxing">
+      <created>1654752019609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654752019609</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +228,7 @@
     <MESSAGE value="Add tutorial on Annotations" />
     <MESSAGE value="Add tutorial on Serialization" />
     <MESSAGE value="Add tutorial on Multithreading and Synchronization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Multithreading and Synchronization" />
+    <MESSAGE value="Add tutorial on Autoboxing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Autoboxing" />
   </component>
 </project>
