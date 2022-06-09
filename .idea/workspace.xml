@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on IO">
-      <change afterPath="$PROJECT_DIR$/src/advance/jdbc/JdbcDemo.java" afterDir="false" />
+    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Jdbc">
+      <change afterPath="$PROJECT_DIR$/src/advance/generics/DualGenericHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance/generics/SingleGenericHolder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +55,7 @@
       <recent name="generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharacterStreamDemo">
+  <component name="RunManager" selected="Application.DualGenericHolder">
     <configuration name="AutoBoxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advance.autoboxing.AutoBoxingDemo" />
       <module name="Java-Tuts" />
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance.synchronization.SynchronizationDemo" />
+    <configuration name="DualGenericHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance.generics.DualGenericHolder" />
       <module name="Java-Tuts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance.synchronization.*" />
+          <option name="PATTERN" value="advance.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance.multithreading.ThreadingDemo" />
+    <configuration name="SingleGenericHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance.generics.SingleGenericHolder" />
       <module name="Java-Tuts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance.multithreading.*" />
+          <option name="PATTERN" value="advance.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DualGenericHolder" />
+        <item itemvalue="Application.SingleGenericHolder" />
         <item itemvalue="Application.CharacterStreamDemo" />
         <item itemvalue="Application.ByteStreamExample" />
         <item itemvalue="Application.AutoBoxingDemo" />
-        <item itemvalue="Application.SynchronizationDemo" />
-        <item itemvalue="Application.ThreadingDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654755880839</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add tutorial on Jdbc">
+      <created>1654791915686</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654791915686</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +244,8 @@
     <MESSAGE value="Add tutorial on Multithreading and Synchronization" />
     <MESSAGE value="Add tutorial on Autoboxing" />
     <MESSAGE value="Add tutorial on IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on IO" />
+    <MESSAGE value="Add tutorial on Jdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Jdbc" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
