@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Enums">
-      <change afterPath="$PROJECT_DIR$/src/advance/annotations/MarkerAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/annotations/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/annotations/MyCustomAnnotation.java" afterDir="false" />
+    <list default="true" id="c6c58e99-eb91-4929-a403-da1dc45ccca3" name="Changes" comment="Add tutorial on Annotations">
+      <change afterPath="$PROJECT_DIR$/src/advance/serializable/SerDeserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance/serializable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/suprememajor/Desktop/test&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/suprememajor/Desktop/test",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="generics" />
@@ -55,7 +56,7 @@
       <recent name="generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyClass">
+  <component name="RunManager" selected="Application.SerDeserDemo">
     <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.interfaces.CollectionDemo" />
       <module name="Java-Tuts" />
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecordsTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="records.RecordsTutorial" />
+    <configuration name="SerDeserDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance.serializable.SerDeserDemo" />
       <module name="Java-Tuts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="records.*" />
+          <option name="PATTERN" value="advance.serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerDeserDemo" />
         <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.CollectionDemo" />
-        <item itemvalue="Application.RecordsTutorial" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654694798630</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add tutorial on Annotations">
+      <created>1654730208792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654730208792</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,11 +198,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add tutorial on Multithreading" />
     <MESSAGE value="Add tutorial on LinkedLIst vs ArrayList" />
     <MESSAGE value="Add tutorial on Generics" />
     <MESSAGE value="Add tutorial on Records" />
     <MESSAGE value="Add tutorial on Enums" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Enums" />
+    <MESSAGE value="Add tutorial on Annotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tutorial on Annotations" />
   </component>
 </project>
